@@ -3,9 +3,9 @@
 
 
 "@figma/plugin-typings@^1.49.0":
-  version "1.49.0"
-  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.49.0.tgz#5bd88d1c2f38a69854330ad7b6d6e9ac6f8816c7"
-  integrity sha512-72tKC61RPkrBZ+uzj+TtL3bVAmxahZKv/TfElbrY9sBoZvr4/+4gw7hnJYiln5xBJHiJ4KTcjUy+6D1qUuWlTA==
+  version "1.78.0"
+  resolved "https://artifactory.global.square/artifactory/api/npm/square-npm/@figma/plugin-typings/-/plugin-typings-1.78.0.tgz#55f7abf35ce5ba7eaf780282f2e8cf95ac101158"
+  integrity sha512-LpuGERiN/IGO8z213yIn2uX2U57VGHh1EbeN+9Oyf/Wa9vL9IPDTCKNnHAAq/Dc8m7dx7dI/trihJs2qF12Q+A==
 
 ansi-regex@^5.0.1:
   version "5.0.1"
